@@ -1,2 +1,0 @@
-# njoyarts
-Sample functions test
